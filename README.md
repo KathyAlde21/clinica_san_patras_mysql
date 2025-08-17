@@ -1,4 +1,4 @@
-**_<h1 align="center">:vulcan_salute: Titulo proyecto :computer:</h1>_**
+**_<h1 align="center">:vulcan_salute: Clínica San Patrás - Control de Gestión :computer:</h1>_**
 
 **<h3>:blue_book: Contexto:</h3>**
 
@@ -74,22 +74,20 @@ SHOW TABLES;
 SHOW CREATE TABLE paciente;
 SHOW CREATE TABLE medico;
 SHOW CREATE TABLE ingreso;
-
 ```
 
 **<h3>📁 Estructura del Proyecto:</h3>**
 
 ```
-📁 m4_abp_ae5_clinica_san_patras
+📁 abp_ae5_clinica_san_patras
 ├── 📘 README.md
 ├─── 📁 img
 │   └── 🖼️ eer_diagram.jpg
 └──  📁 mysql
     └── 🟩 eer_diagram.mwb
     └── 🟩 creando_tablas_M4_ABP_AE5.sql
-
 ```
 
-**<h3>:book: Ejemplo de Salida:</h3>**
+**<h3>:book: EER Diagram Final:</h3>**
 
-<img src="./proyecto/src/img/imagen.jpg" alt="" style="width: 80%;">
+<img src="./img/eer_diagram.jpg" alt="EER Diagram" style="width: 80%;">
