@@ -90,4 +90,4 @@ SHOW CREATE TABLE ingreso;
 
 **<h3>:book: EER Diagram Final:</h3>**
 
-<img src="./img/eer_diagram.jpg" alt="EER Diagram" style="width: 80%;">
+<img src="./img/eer_diagram.jpg" alt="EER Diagram" style="width: 70%;">
